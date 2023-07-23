@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Inga</h1>
+<h1 align="center">Hi 👋 I'm Inga</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Hello" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
