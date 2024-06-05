@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [inga911.github.io/my-portfolio/](inga911.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at https://inga911.github.io/my-portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
